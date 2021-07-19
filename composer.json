@@ -1,5 +1,5 @@
 {
-    "name": "elastic-email/web-api-client",
+    "name": "involix/elastic-email",
     "type": "library",
     "description": "Easily send emails with Elastic Email using Web API PHP Client https://elasticemail.com/",
     "keywords": ["elastic","email", "elasticemail", "transactional", "web", "api"],
@@ -15,7 +15,7 @@
     ],
     "require": {
         "php": ">=7.0.0",
-        "guzzlehttp/guzzle": "^7.2"
+        "guzzlehttp/guzzle": "^7.0.1"
     },
     "autoload": {
         "psr-0": { "": "src/" }
